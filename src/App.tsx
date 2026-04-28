@@ -5,7 +5,6 @@ import ProductCard from './components/ProductCard'
 import SolutionCard from './components/SolutionCard'
 import ArchitectureDiagram from './components/ArchitectureDiagram'
 import AboutSection from './components/AboutSection'
-import ContactForm from './components/ContactForm'
 import Footer from './components/Footer'
 
 
